@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on schoolwork, namely Python, HTML and CSS
 - 🌱 I’m currently learning Python, HTML and CSS
 - Somewhat mediocre at JS
-- 
 <!--
 **RinkyDinky-for-real/RinkyDinky-for-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
