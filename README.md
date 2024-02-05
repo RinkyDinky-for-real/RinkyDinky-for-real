@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on schoolwork, namely Python, HTML and CSS
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🔭 I’m currently working on schoolwork, namely Python, Java, HTML and CSS
+- 🌱 I’m currently learning Java
 - Somewhat mediocre at JS
